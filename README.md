@@ -30,7 +30,7 @@ Plot and compare:
 
 ### E.g.: Adele
 
-![Frequent Words](https://github.com/gndaniela/genius_analysis/blob/main/img/freq_words.png?raw=true)
+
 
 ### E.g.: AC/DC
 
